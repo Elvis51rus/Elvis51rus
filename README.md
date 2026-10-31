@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @Elvis51rus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello, World!
 
-<!---
-Elvis51rus/Elvis51rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Developer in progress | Lifelong learner
+
+- 👀 Interested in software development, AI and automation
+- 🌱 Currently exploring Python, TypeScript, React and Go
+- 🧠 Learning software architecture, backend development and modern web technologies
+- ⚡ Passionate about building useful tools and solving problems through code
+- 🔍 Always exploring new technologies and ideas
+
+🛠️ Technologies & Tools
+
+Languages
+
+- Python
+- TypeScript
+- Go
+
+Frontend
+
+- React
+- HTML & CSS
+
+Interests
+
+- Artificial Intelligence
+- Automation
+- Data Analytics
+- Backend Development
+- Software Engineering
+
+📈 Philosophy
+
+«Learn by building. Improve by experimenting. Grow by never stopping.»
