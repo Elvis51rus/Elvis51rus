@@ -35,8 +35,18 @@ Interests
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elvis51rus&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=Elvis51rus&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis51rus&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=Elvis51rus&theme=tokyonight&layout=compact" alt="Top Languages" width="100%">
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=Elvis51rus&days=30&width=600" alt="GitHub Activity" width="100%">
+</p>
