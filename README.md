@@ -41,10 +41,6 @@ Interests
   <img src="https://ghstats.dev/api/card?username=Elvis51rus&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=Elvis51rus&theme=tokyonight&layout=compact" alt="Top Languages" width="100%">
-</p>
-
 📈 Contribution Activity
 
 <p align="center">
