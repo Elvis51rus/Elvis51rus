@@ -32,3 +32,11 @@ Interests
 📈 Philosophy
 
 «Learn by building. Improve by experimenting. Grow by never stopping.»
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elvis51rus&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis51rus&layout=compact&theme=tokyonight&hide_border=true)
